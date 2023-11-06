@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple-Airlocks", "Simple-Airlocks.csproj", "{F7D9B571-EE20-45D9-9E5F-837932505D96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7D9B571-EE20-45D9-9E5F-837932505D96}.Debug|x64.ActiveCfg = Debug|x64
+		{F7D9B571-EE20-45D9-9E5F-837932505D96}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {116E1D1B-1132-43A9-A91F-DA57406F72AA}
+	EndGlobalSection
+EndGlobal

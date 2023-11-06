@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SP-Zone", "SP-Zone.csproj", "{072066D8-742B-4628-8C67-E9C2F6037C00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{072066D8-742B-4628-8C67-E9C2F6037C00}.Debug|x64.ActiveCfg = Debug|x64
+		{072066D8-742B-4628-8C67-E9C2F6037C00}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D031D38-80ED-4AE0-A2BA-5C9302A840CA}
+	EndGlobalSection
+EndGlobal
